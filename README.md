@@ -12,8 +12,8 @@ $ pip2 install mechanize
 
 $ pkg install git
 
-$ git clone https://github.com/mr-anam/crackfb
+$ git clone https://github.com/mr-anam/crackfb1
 
-$ cd crackfb
+$ cd crackfb1
 
-$ python2 run1.py
+$ python2 fucek1.py
